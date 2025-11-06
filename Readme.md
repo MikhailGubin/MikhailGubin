@@ -21,7 +21,7 @@
 | [knowledge_plus](https://github.com/MikhailGubin/knowledge_plus.git)           | Шаблон платформы для онлайн-обучения     | DRF, PostgreSQL, Docker Compose, Celery, Redis, GitHub Actions, Yandex Cloud, Stripe |
 | [online_market](https://github.com/MikhailGubin/online_market.git)             | Сервис для интернет магазина             | DRF, PostgreSQL, Docker Compose, Celery, Redis                                       |
 | [mailman](https://github.com/MikhailGubin/mailman.git)                         | Сервис отправки рассылок                 | Django, PostgreSQL, Redis                                                            |
-| [job_search_with_db](https://github.com/MikhailGubin/job_search_with_db.git)   | Сервис вакансий с платформы hh.ru        | PostgreSQL                                                                           |
+| [job_search_with_db](https://github.com/MikhailGubin/job_search_with_db.git)   | Сервис вакансий с платформы hh.ru        | PostgreSQL, API, Pytest, Requests                                                    |
 
 ## 📫 Связаться со мной
 - Telegram: [@MVGubin](https://t.me/MVGubin)
