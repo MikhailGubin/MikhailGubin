@@ -19,7 +19,7 @@
 | [atomic_habits](https://github.com/MikhailGubin/atomic_habits.git)             | Трекер привычек                          | DRF, PostgreSQL, Docker Compose, Celery, Redis, GitHub Actions, Yandex Cloud         |
 | [norstar](https://github.com/MikhailGubin/norstar.git)                         | Трекер задач для сотрудников             | DRF, PostgreSQL, Docker Compose, drf-yasg, DRF Simple JWT                            |
 | [knowledge_plus](https://github.com/MikhailGubin/knowledge_plus.git)           | Шаблон платформы для онлайн-обучения     | DRF, PostgreSQL, Docker Compose, Celery, Redis, GitHub Actions, Yandex Cloud, Stripe |
-| [online_market](https://github.com/MikhailGubin/online_market.git)             | Сервис для интернет магазина             | DRF, PostgreSQL, Docker Compose, Celery, Redis, GitHub Actions                       |
+| [online_market](https://github.com/MikhailGubin/online_market.git)             | Сервис для интернет магазина             | DRF, PostgreSQL, Docker Compose, Celery, Redis                                       |
 | [mailman](https://github.com/MikhailGubin/mailman.git)                         | Сервис отправки рассылок                 | Django, PostgreSQL, Redis                                                            |
 | [job_search_with_db](https://github.com/MikhailGubin/job_search_with_db.git)   | Сервис вакансий с платформы hh.ru        | PostgreSQL                                                                           |
 
